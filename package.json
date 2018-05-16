@@ -16,6 +16,14 @@
     "express": "^4.16.2"
   },
   "engines": {
-  "node": "10.0.0"
-}
+    "node": "10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanc1995/Final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ryanc1995/Final/issues"
+  },
+  "homepage": "https://github.com/Ryanc1995/Final#readme"
 }
